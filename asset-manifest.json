@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2ed85bbf.css",
-    "main.js": "/static/js/main.03a5378a.js",
+    "main.js": "/static/js/main.24a610f3.js",
     "static/media/smokyGranular.png": "/static/media/smokyGranular.2091f2df42bd5a36af6a.png",
     "static/media/MQ.svg": "/static/media/MQ.766530c87fc3b905618a6a23a9ec00da.svg",
     "static/media/prodd.png": "/static/media/prodd.37ad6445ad3ec13079db.png",
@@ -31,6 +31,7 @@
     "static/media/glassyQuartzLumps2.png": "/static/media/glassyQuartzLumps2.914aeeb6c8267d2ff8bf.png",
     "static/media/img1.png": "/static/media/img1.56b54948109d9b130e8b.png",
     "static/media/FontsFree-Net-proxima_nova_reg-webfont.ttf": "/static/media/FontsFree-Net-proxima_nova_reg-webfont.fd587f5a8435ec062478.ttf",
+    "static/media/smokygranular.png": "/static/media/smokygranular.20db43fc5d5c4e20e19f.png",
     "static/media/img5.png": "/static/media/img5.545e4c462e3f95d25b96.png",
     "static/media/img6.png": "/static/media/img6.8c19f9b8127e639320cf.png",
     "static/media/quartz.jpg": "/static/media/quartz.d265f9a67354b928250a.jpg",
@@ -61,17 +62,16 @@
     "static/media/pinkQuartz2.png": "/static/media/pinkQuartz2.fd92ab9baf54a2ac967b.png",
     "static/media/lumps.png": "/static/media/lumps.8ac3c76538a469590cc2.png",
     "static/media/polishedPebbles2.png": "/static/media/polishedPebbles2.7c3fc82feece784a7e08.png",
-    "static/media/smokygranular.png": "/static/media/smokygranular.23c0246eb8d1fa08543d.png",
     "static/media/unpolishedPebbles2.png": "/static/media/unpolishedPebbles2.42369137fc64ff36286e.png",
     "static/media/pebbles.png": "/static/media/pebbles.e955f78c478dc05a751c.png",
     "static/media/footerImage.png": "/static/media/footerImage.65e3a55bf43b0c4db2cd.png",
     "static/media/microSilica.png": "/static/media/microSilica.08b457b428c42f3f9659.png",
     "index.html": "/index.html",
     "main.2ed85bbf.css.map": "/static/css/main.2ed85bbf.css.map",
-    "main.03a5378a.js.map": "/static/js/main.03a5378a.js.map"
+    "main.24a610f3.js.map": "/static/js/main.24a610f3.js.map"
   },
   "entrypoints": [
     "static/css/main.2ed85bbf.css",
-    "static/js/main.03a5378a.js"
+    "static/js/main.24a610f3.js"
   ]
 }
